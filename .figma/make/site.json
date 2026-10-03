@@ -1,0 +1,10 @@
+{
+  "description": "Experience a realistic 3D vallenato accordion that emulates the Hohner Corona, allowing users to change keys and play using computer keys.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
